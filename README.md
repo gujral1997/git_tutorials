@@ -6,3 +6,5 @@
 6. `git stash` To stash the changes
 7. `git stash apply` To apply stashed changes
 8. `git pull` To pull the latest code
+9. `git fetch` To fetch new branches
+10. `git merge branchName` To merge branches
